@@ -22,6 +22,11 @@
         <apache.commons.lang.version>3.12.0</apache.commons.lang.version>
     </properties>
 
+    <!-- Modules -->
+    <modules>
+        <module>dao</module>
+    </modules>
+
     <dependencyManagement>
         <dependencies>
             <!-- Spring boot dependencies -->
