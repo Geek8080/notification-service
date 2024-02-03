@@ -15,4 +15,18 @@
         <artifactId>notification-service</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
+
+<!--        <build>-->
+<!--            <plugins>-->
+<!--                <plugin>-->
+<!--                    <groupId>org.codehaus.mojo</groupId>-->
+<!--                    <artifactId>exec-maven-plugin</artifactId>-->
+<!--                    <version>1.2.1</version>-->
+<!--                    <configuration>-->
+<!--                        <mainClass>io.Geek8080.notification.dao.Main</mainClass>-->
+<!--                    </configuration>-->
+<!--                </plugin>-->
+<!--            </plugins>-->
+<!--        </build>-->
+
 </project>
